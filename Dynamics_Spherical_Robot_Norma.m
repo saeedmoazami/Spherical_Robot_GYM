@@ -172,6 +172,10 @@ al = ad * dt + al;
 phi = phd * dt + phi;
 dl = dld * dt + dl;
 
+%Termination Condition (Slider out of bound)
+%if (dl > 0.1 || dl <-0.1)
+%    break;
+%end
 
 %Kinematics
 dx   = R*(td*cos(phi)*cos(psi) + phd*sin(psi));
