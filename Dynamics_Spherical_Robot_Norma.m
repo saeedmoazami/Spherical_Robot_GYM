@@ -2,13 +2,13 @@
 %
 %	Dynamics of Norma, a slider pendulum spherical robot
 
-%	Please cite thos paper:
+%	Please cite this paper:
 %	https://arxiv.org/pdf/1908.02243
 %
 %   refer to this video for a full demonstration:
 %   https://youtu.be/WO22QfuMlqs
 %	Don't hesitate to contact:
-%	saeed.moazami.1985@gmail.com
+%	moazami.iut@gmail.com
 %
 %	for any information
 
