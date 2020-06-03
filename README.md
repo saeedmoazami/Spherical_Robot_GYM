@@ -2,7 +2,9 @@
 ## Mathematical Model of Norma, a Spherical Mobile Robot:
 This file represents the dynamics of Norma, a spherical robot.
 
-Please refer to https://arxiv.org/pdf/1908.02243 or contact moazami.iut@gmail.com for more details.
+Please refer to https://arxiv.org/pdf/1908.02243
+
+contact moazami.iut@gmail.com for more details.
 
 <img src="https://drive.google.com/uc?export=view&id=1Yvxee9MEyw3ivgjpTHPwsLiTDBZDn3Ll" alt="Norma" style="width:100%;">
 
