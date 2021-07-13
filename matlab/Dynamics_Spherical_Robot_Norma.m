@@ -38,7 +38,7 @@ D0 = 0.1;           %Slider's initial position
 L0 = 0.1;           %Pendulum's Position
 
 %Moments of Inertia:
-IS h= (1/12)*m_Shaft*(2*R)^2;
+ISh = (1/12)*m_Shaft*(2*R)^2;
 ISp = (2/3)*m_Sphere*R^2;
 ISx0 = 0.1;
 ISy0 = 0.1;
